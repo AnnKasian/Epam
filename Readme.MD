@@ -6,14 +6,14 @@
 This guide will provide you with the initial instructions for using Instagram and getting started on the platform. 
 Follow these steps to embark on your Instagram journey:
 
-*1.Download the Instagram App: 
+  1.Download the Instagram App: 
 Start by downloading the Instagram app on your mobile device. 
 It is available for free on both iOS and Android platforms. 
 Simply visit the App Store or Google Play Store, search for "Instagram," and tap on the download/install button.
 
 ![N|Solid](https://storage.googleapis.com/support-forums-api/attachment/thread-184309117-2424559025107935791.jpg)
 
-*2.Create an Account: 
+  2.Create an Account: 
 Once the app is installed, open it and tap on the "Sign Up" button. 
 ![N|Solid](https://camo.githubusercontent.com/b1d9cfb8f4e173dd141ab68e25fddf9de7c9175fae3d03271240375055e540fc/68747470733a2f2f692e696d6775722e636f6d2f655235474a6f6f2e706e67)
 
@@ -29,7 +29,7 @@ This will be your Instagram handle (e.g., @yourusername), and it should be somet
 Password: Create a strong password that includes a combination of letters, numbers, and special characters to ensure the security of your account. 
 Avoid using common passwords or personal information.
 
-*3. Complete Your Profile: Once you've set up your username and password, you'll be directed to the profile creation page. 
+  3. Complete Your Profile: Once you've set up your username and password, you'll be directed to the profile creation page. 
 Here, you can add some personal touches to your profile:
 
 Profile Picture: You can either take a photo using the in-app camera or choose an existing photo from your device's gallery. 
@@ -45,7 +45,7 @@ Private Account (Optional): If you want to keep your account private and control
 This way, only approved followers will be able to see your content.
 
 
-*4. Find Friends or Follow Accounts: 
+  4. Find Friends or Follow Accounts: 
 After completing your profile, Instagram will provide suggestions of people to follow based on your contacts or Facebook friends (if you connected your Facebook account). 
 You can also search for specific usernames or browse through popular accounts to find people or topics of interest. Following accounts will populate your feed with their posts.
 
